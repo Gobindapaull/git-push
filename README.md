@@ -9,6 +9,9 @@ git status
 
 git commit -m "First commit"
 
+git remote add origin https://github.com/Gobindapaull/git-push
 
- 
+git push -u origin master
+
+
  
